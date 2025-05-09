@@ -1,0 +1,42 @@
+[
+  {
+    "dayName": "Wednesday",
+    "date": "18 september 2024",
+    "minTemp": "< 22",
+    "maxTemp": 22,
+    "humidityPercentage": 10,
+    "windSpeedBft": 3
+  },
+  {
+    "dayName": "Friday",
+    "date": "20 september 2024",
+    "minTemp": 13,
+    "maxTemp": 22,
+    "humidityPercentage": 0,
+    "windSpeedBft": 3
+  },
+  {
+    "dayName": "Saturday",
+    "date": "21 september 2024",
+    "minTemp": 13,
+    "maxTemp": 24,
+    "humidityPercentage": 0,
+    "windSpeedBft": 2
+  },
+  {
+    "dayName": "Sunday",
+    "date": "22 september 2024",
+    "minTemp": 15,
+    "maxTemp": 23,
+    "humidityPercentage": 40,
+    "windSpeedBft": 2
+  },
+  {
+    "dayName": "Tuesday",
+    "date": "24 september 2024",
+    "minTemp": 12,
+    "maxTemp": 20,
+    "humidityPercentage": 40,
+    "windSpeedBft": 3
+  }
+]

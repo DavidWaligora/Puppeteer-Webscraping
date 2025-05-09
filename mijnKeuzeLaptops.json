@@ -1,0 +1,756 @@
+[
+  {
+    "productTitle": "ASUS Vivobook 15 X1504ZA-NJ1169W Azerty",
+    "price": 629,
+    "reviews": 2,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/943538/asus-vivobook-15-x1504za-nj1169w-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "HP Pavilion 15-eg2008nb Azerty",
+    "price": 799,
+    "reviews": 25,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/907907/hp-pavilion-15-eg2008nb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS Vivobook 15 OLED X1505ZA-MA437W Azerty",
+    "price": 799,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947882/asus-vivobook-15-oled-x1505za-ma437w-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "HP VICTUS 15-fa1080nb Azerty",
+    "price": 999,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948802/hp-victus-15-fa1080nb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "HP VICTUS 16-r1054nb Azerty",
+    "price": 1499,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948809/hp-victus-16-r1054nb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "16,1 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo ThinkBook 16 G6 IRL - 21KH000RMB Azerty",
+    "price": 1029,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/941924/lenovo-thinkbook-16-g6-irl-21kh000rmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "Samsung Galaxy Book4 NP750XGJ-KG1BE Azerty",
+    "price": 799,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948588/samsung-galaxy-book4-np750xgj-kg1be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo ThinkPad E16 Gen 1 (Intel) - 21JN00DFMB Azerty",
+    "price": 929,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948433/lenovo-thinkpad-e16-gen-1-intel-21jn00dfmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "HP Pavilion 15-eg2049nb Azerty",
+    "price": 949,
+    "reviews": 25,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/928534/hp-pavilion-15-eg2049nb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo IdeaPad Slim 3 15IRH8 83EM00CJMB Azerty",
+    "price": 699,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/949066/lenovo-ideapad-slim-3-15irh8-83em00cjmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Thin 15 B13VE-2052BE Azerty",
+    "price": 949,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947963/msi-thin-15-b13ve-2052be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "HP Elitebook 650 G10 - 9X1X3ES Azerty",
+    "price": 1269,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947283/hp-elitebook-650-g10-9x1x3es-azerty.html",
+    "specificaties": {
+      "ram": "32 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "HP ProBook 450 G10 - 9G2A5ET Azerty",
+    "price": 1099,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944221/hp-probook-450-g10-9g2a5et-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS Vivobook X1605ZA-MB926WS Azerty",
+    "price": 799,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947874/asus-vivobook-x1605za-mb926ws-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "HP Probook 450 G10 - 9X1W9ES Azerty",
+    "price": 1149,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947282/hp-probook-450-g10-9x1w9es-azerty.html",
+    "specificaties": {
+      "ram": "32 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Aspire 5 17 (A517-58GM-79ZX) Azerty",
+    "price": 1029,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944905/acer-aspire-5-17-a517-58gm-79zx-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Katana 17 B13VGK-1059BE Azerty",
+    "price": 1399,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944616/msi-katana-17-b13vgk-1059be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "HP 470 G10 - 9G283ET Azerty",
+    "price": 1179,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944218/hp-470-g10-9g283et-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "HP EliteBook 860 G10 - 96Z19ET Azerty",
+    "price": 1449,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944227/hp-elitebook-860-g10-96z19et-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS Vivobook 17 X1704ZA-AU045W-BE Azerty",
+    "price": 849,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/922943/asus-vivobook-17-x1704za-au045w-be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo IdeaPad Slim 3 15IRH8 83EM00CKMB Azerty",
+    "price": 799,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/949068/lenovo-ideapad-slim-3-15irh8-83em00ckmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 PB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Aspire 5 17 (A517-58M-73Q0) Azerty",
+    "price": 899,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947178/acer-aspire-5-17-a517-58m-73q0-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Sword 16 HX B14VGKG-018BE Azerty",
+    "price": 1499,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944621/msi-sword-16-hx-b14vgkg-018be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo LOQ 15IRX9 83DV00PXMB Azerty",
+    "price": 1069,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/949022/lenovo-loq-15irx9-83dv00pxmb-azerty.html",
+    "specificaties": {
+      "ram": "24 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS TUF Gaming F16 FX607JV-N3108W Azerty",
+    "price": 1099,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/943548/asus-tuf-gaming-f16-fx607jv-n3108w-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS ExpertBook B1502CVA-BQ0563X Azerty",
+    "price": 999,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944026/asus-expertbook-b1502cva-bq0563x-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo ThinkPad E16 Gen 1 Intel - 21JN000EMB Azerty",
+    "price": 1029,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/941917/lenovo-thinkpad-e16-gen-1-intel-21jn000emb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "HP 17-cn2036nb Azerty",
+    "price": 849,
+    "reviews": 3,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/934801/hp-17-cn2036nb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS TUF Gaming F15 FX507VV-LP301W Azerty",
+    "price": 1199,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947863/asus-tuf-gaming-f15-fx507vv-lp301w-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo IdeaPad Pro 5 16IRH8 83AQ004NMB Azerty",
+    "price": 1449,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/926564/lenovo-ideapad-pro-5-16irh8-83aq004nmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "HP Victus 15-fa1038nb Azerty",
+    "price": 1049,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/936753/hp-victus-15-fa1038nb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Sword 17 HX B14VFKG-082BE Azerty",
+    "price": 1499,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947968/msi-sword-17-hx-b14vfkg-082be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "17 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Aspire 5 (A515-58GM-79MS) Azerty",
+    "price": 999,
+    "reviews": 7,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/926792/acer-aspire-5-a515-58gm-79ms-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Thin 15 B12UC-1254BE Azerty",
+    "price": 799,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944613/msi-thin-15-b12uc-1254be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Thin 15 B12UC-2050BE Azerty",
+    "price": 799,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947961/msi-thin-15-b12uc-2050be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo LOQ 15IRX9 83DV00NSMB Azerty",
+    "price": 1349,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/949023/lenovo-loq-15irx9-83dv00nsmb-azerty.html",
+    "specificaties": {
+      "ram": "24 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS TUF Gaming F15 FX507ZI4-LP049W Azerty",
+    "price": 1349,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947862/asus-tuf-gaming-f15-fx507zi4-lp049w-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Cyborg 15 A13VFK-1202BE Azerty",
+    "price": 1099,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947965/msi-cyborg-15-a13vfk-1202be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1024 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "HP VICTUS 16-r0068nb",
+    "price": 1099,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948807/hp-victus-16-r0068nb.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16,1 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Aspire 5 15 (A515-58P-7825) Azerty",
+    "price": 929,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947172/acer-aspire-5-15-a515-58p-7825-azerty.html",
+    "specificaties": {
+      "ram": "32 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Samsung Galaxy Book4 NP750XGJ-KG3BE Azerty",
+    "price": 999,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948591/samsung-galaxy-book4-np750xgj-kg3be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Aspire 5 (A515-58M-73DH) Azerty",
+    "price": 679,
+    "reviews": 7,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/926791/acer-aspire-5-a515-58m-73dh-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo Yoga 7 16IRL8 82YN004NMB Azerty",
+    "price": 1299,
+    "reviews": 2,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/933555/lenovo-yoga-7-16irl8-82yn004nmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo IdeaPad Slim 5 16IRL8 82XF005CMB Azerty",
+    "price": 999,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/926560/lenovo-ideapad-slim-5-16irl8-82xf005cmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1000 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS Vivobook 16X K3605VC-N1059W-BE Azerty",
+    "price": 1199,
+    "reviews": 9,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/927139/asus-vivobook-16x-k3605vc-n1059w-be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo IdeaPad Slim 5 16IRL8 82XF00AHMB Azerty",
+    "price": 899,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/949036/lenovo-ideapad-slim-5-16irl8-82xf00ahmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo LOQ 16IRH8 82XW0070MB Azerty",
+    "price": 1099,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/928823/lenovo-loq-16irh8-82xw0070mb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS TUF Gaming F15 FX507VV-LP241W Azerty",
+    "price": 1099,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947864/asus-tuf-gaming-f15-fx507vv-lp241w-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "ASUS TUF Gaming F15 FX507VU-LP315W Azerty",
+    "price": 999,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947865/asus-tuf-gaming-f15-fx507vu-lp315w-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Aspire 5 Pro (A517-53-74AZ) Azerty",
+    "price": 999,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944495/acer-aspire-5-pro-a517-53-74az-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Aspire 5 15 (A515-58P-76RM) Azerty",
+    "price": 699,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947168/acer-aspire-5-15-a515-58p-76rm-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "Acer Nitro V15 (ANV15-51-76TC) Azerty",
+    "price": 1149,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/947145/acer-nitro-v15-anv15-51-76tc-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  },
+  {
+    "productTitle": "HP VICTUS 16-r0067nb Azerty",
+    "price": 1399,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948806/hp-victus-16-r0067nb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "16,1 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo LOQ 16IRH8 82XW0071MB Azerty",
+    "price": 1249,
+    "reviews": 1,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/928824/lenovo-loq-16irh8-82xw0071mb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Sword 16 HX B14VFKG-016BE Azerty",
+    "price": 1399,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/944620/msi-sword-16-hx-b14vfkg-016be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Prestige 16 Evo A13M-264BE Azerty",
+    "price": 1199,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/924184/msi-prestige-16-evo-a13m-264be-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1024 GB",
+      "schermdiagonaal": "16 inch"
+    }
+  },
+  {
+    "productTitle": "Lenovo IdeaPad 3 17IAU7 82RL008DMB Azerty",
+    "price": 799,
+    "reviews": 2,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/933830/lenovo-ideapad-3-17iau7-82rl008dmb-azerty.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "512 GB",
+      "schermdiagonaal": "17,3 inch"
+    }
+  },
+  {
+    "productTitle": "MSI Modern 15 H C13M-206BE",
+    "price": 799,
+    "reviews": 0,
+    "beschikbaarheid": true,
+    "productLink": "https://www.coolblue.be/nl/product/948611/msi-modern-15-h-c13m-206be.html",
+    "specificaties": {
+      "ram": "16 GB",
+      "processor": "Intel Core i7",
+      "storage": "1 TB",
+      "schermdiagonaal": "15,6 inch"
+    }
+  }
+]
